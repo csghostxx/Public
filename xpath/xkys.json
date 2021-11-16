@@ -40,7 +40,7 @@
   "dtActor": "//span[contains(text(), '演员')]/following-sibling::a/text()",
   "dtDesc": "//span[contains(text(), '简介')]/following-sibling::span/text()",
   "dtFromNode": "//div[@class='play_source']/div/div/a",
-  "dtFromName": "/[substring-before(text(),'(')]",
+  "dtFromName": "[substring-before(text(),'(')]",
   "dtFromNameR": "",
   "dtUrlNode": "//div[@class='playlist_notfull']/ul",
   "dtUrlSubNode": "/li/a",
