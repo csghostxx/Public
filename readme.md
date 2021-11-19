@@ -14,6 +14,8 @@
 // 国内请把jar地址上传至gitee或其他
 // 例： "spider":"https://gitee.com/tangsan99999/CatVodTVSpider/raw/master/jar/custom_spider.jar",
 // 注意：小心引流，不懂编辑爬虫，建议使用官方jar即可
+// 国内镜像
+// "spider": "https://litecucumber.coding.net/p/cat/d/config/git/raw/master/custom_spider.txt",
 "spider":"https://github.com/catvod/CatVodTVSpider/blob/master/jar/custom_spider.jar?raw=true",
 		
 // 以下配置作为参考，有些我也没用过，只是测试过能用，若有问题自行解决。	
@@ -380,3 +382,6 @@ https://catvod.github.io/CatVodTVJsonEditor/
 1. https://pastebin.com/
 2. https://ghostbin.com/
 3. https://www.toptal.com/developers/hastebin/
+
+
+## 澄清一下，这里非官方网站，若有错误，与官方无关。
